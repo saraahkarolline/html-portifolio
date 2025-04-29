@@ -15,3 +15,24 @@ a {
     color: DodgerBlue;
 
 }
+.texto-destaque{
+    color: #22DAFD;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.img-destaque{
+    max-width: 100%;
+    padding: 5%;
+    height: auto;
+}
+.h1-destaque
+{
+    font-size: 2em;
+    font-weight: bold;
+    padding: 1%;
+}
+.p-destaque{
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 1%;
+}
